@@ -5,7 +5,7 @@ import time
 
 st.set_page_config(page_title="Qwen3-Coder Benchmark", layout="wide")
 
-st.title("🧠 Qwen3-Coder Benchmark (Sequential Mode)")
+st.title("🧠 Qwen3-Coder Benchmark")
 st.caption("Run each model one at a time to avoid RAM issues")
 
 # Init session state
